@@ -4,3 +4,4 @@
  
 Goal is to get a hands-on experience on this topic.
 
+as materials I am going to use this 10hours youtube video https://www.youtube.com/watch?v=DgVjEo3OGBI. amoung other resources I will share them in here as well.
